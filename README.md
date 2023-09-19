@@ -39,9 +39,10 @@ Step 7:Print Approximate Probabilities:
 ```
 ## Program :
 
-```Reg.no: 212221040043
-
+```
 Name: DIVYA S
+
+Reg.no: 212221040043
 
 from pgmpy.models import BayesianNetwork
 
